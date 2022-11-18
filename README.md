@@ -12,4 +12,6 @@ this contains the public code for first tech challenge team 7444 sisters of the 
 | Header      | Title       | Here's this   | |
 | Paragraph   | Text        | And more      | |
 
-### verions and edits
+### auto inspiration
+
+### verions, edits, and issues
